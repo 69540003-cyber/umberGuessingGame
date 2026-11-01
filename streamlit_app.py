@@ -53,8 +53,4 @@ while count < max_attempts:
 
     print("เหลือโอกาสอีก", max_attempts - count, "ครั้ง")
 
-if guess != number:
-    print("\nหมดโอกาสแล้ว!")
-    print("ตัวเลขที่ถูกต้องคือ", number)
-
-print("\n===== GAME OVER =====")
+i
